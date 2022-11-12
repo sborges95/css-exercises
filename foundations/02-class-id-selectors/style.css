@@ -1,0 +1,19 @@
+.odd {
+    background-color: pink;
+    font-family: 'verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.odd.extra {
+    font-size: 24px;
+}
+
+#unique {
+    color: blue;
+    font-size: 36px;
+}
+
+#special {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
